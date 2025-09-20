@@ -1,0 +1,22 @@
+# ninja log v6
+33	1849	7738752030273633	Calculator_autogen/timestamp	ccba3b828db3014
+469	793	7717889066238167	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Calculator_autogen/EWIEGA46WW/qrc_recource.cpp	527a8c668fbddd3a
+33	1849	7738752030273633	Calculator_autogen/mocs_compilation.cpp	ccba3b828db3014
+1871	2993	7738752031773703	CMakeFiles/Calculator.dir/mathoperations.cpp.obj	1245fcb236f8be4
+469	793	7717889066238167	Calculator_autogen/EWIEGA46WW/qrc_recource.cpp	527a8c668fbddd3a
+33	1849	7738752030273633	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Calculator_autogen/timestamp	ccba3b828db3014
+33	1849	7738752030273633	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Calculator_autogen/mocs_compilation.cpp	ccba3b828db3014
+9674	10213	7738717078565059	Calculator.exe	8d42dd3944468b62
+1879	2581	7738752031848021	CMakeFiles/Calculator.dir/Calculator_autogen/EWIEGA46WW/qrc_recource.cpp.obj	68753858660097ff
+1851	6096	7738752031573437	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	496a5fed613ecead
+1764	7992	7738750027970794	CMakeFiles/Calculator.dir/main.cpp.obj	6d91cfe1afa4c163
+1857	7149	7738752031633304	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	9f664ec8d1e4dbd0
+1864	7486	7738752031698327	CMakeFiles/Calculator.dir/siencdialog.cpp.obj	ca8a2c6ae273f0fa
+26	1358	7738752931714825	build.ninja	3e1f2f2c9151f42c
+32	485	7738752940782787	Calculator_autogen/timestamp	ccba3b828db3014
+32	485	7738752940782787	Calculator_autogen/mocs_compilation.cpp	ccba3b828db3014
+32	485	7738752940782787	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Calculator_autogen/timestamp	ccba3b828db3014
+32	485	7738752940782787	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Calculator_autogen/mocs_compilation.cpp	ccba3b828db3014
+486	5084	7738752945323529	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	9f664ec8d1e4dbd0
+492	5382	7738752945374705	CMakeFiles/Calculator.dir/siencdialog.cpp.obj	ca8a2c6ae273f0fa
+5383	5802	7738752994288311	Calculator.exe	8d42dd3944468b62

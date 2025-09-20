@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/CMakeFiles/tinyexpr-populate"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/CMakeFiles/tinyexpr-populate.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/CMakeFiles/tinyexpr-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/_deps/tinyexpr-subbuild/tinyexpr-populate-prefix/src/tinyexpr-populate-stamp/tinyexpr-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tinyexpr-populate"
+		],
+		"name" : "tinyexpr-populate"
+	}
+}

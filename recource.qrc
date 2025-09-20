@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Calculator/cf12b7bd6272e6bb45a15d2329062e22 (1).png</file>
+        <file>Calculator/delete.png</file>
+        <file>Calculator/tools.png</file>
+        <file>Calculator/delete (1).png</file>
+        <file>Calculator/delete (2).png</file>
+        <file>Calculator/favicon.ico</file>
+    </qresource>
+</RCC>

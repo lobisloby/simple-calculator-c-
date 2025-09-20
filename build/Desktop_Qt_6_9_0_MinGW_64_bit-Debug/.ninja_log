@@ -1,0 +1,12 @@
+# ninja log v6
+32	383	7712780985109310	Calculator_autogen/timestamp	83aad9569802c5b2
+32	383	7712780985109310	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	83aad9569802c5b2
+32	383	7712780985109310	Calculator_autogen/mocs_compilation.cpp	83aad9569802c5b2
+32	383	7712780985109310	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Calculator_autogen/timestamp	83aad9569802c5b2
+2167	8039	7711913644873235	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	6e8e9444a0bed71a
+905	1247	7707504326318610	CMakeFiles/Calculator.dir/Calculator_autogen/EWIEGA46WW/qrc_recource.cpp.obj	14179d639bcf5848
+5718	6568	7712781041978060	Calculator.exe	24b36c3711d4e97e
+385	5718	7712780988643654	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	53dab9f74817db8e
+2174	8152	7711913644939411	CMakeFiles/Calculator.dir/main.cpp.obj	ae146c4179bb0555
+707	887	7707504325884206	Calculator_autogen/EWIEGA46WW/qrc_recource.cpp	d7302d9247add5dd
+707	887	7707504325884206	C:/Users/hp/Documents/Calculator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Calculator_autogen/EWIEGA46WW/qrc_recource.cpp	d7302d9247add5dd
