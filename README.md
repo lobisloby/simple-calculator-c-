@@ -1,24 +1,44 @@
-# Calculator (C++ & Qt)
+Calculator (C++ & Qt)
 
-A simple desktop calculator application built using C++ and the Qt framework.  
-This project was created as a beginner-friendly exercise to learn Qt GUI development.
+A simple desktop calculator application built using C++ and the Qt framework.
+This project was created as a beginner-friendly exercise to explore GUI development with Qt and understand event-driven programming in C++.
 
-## Features
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Clean and simple user interface
-- Lightweight and easy to use
+✨ Features
+Basic arithmetic operations:
+Addition (+)
+Subtraction (−)
+Multiplication (×)
+Division (÷)
+Responsive and user-friendly interface
+Input validation (prevents invalid operations like division by zero)
+Keyboard and button input support (optional if implemented)
+Lightweight and fast performance
+🖼️ Screenshots
 
-## Technologies Used
-- C++
-- Qt Framework
+(Add screenshots here if available)
+Example:
 
-## Getting Started
+/screenshots/calculator.png
+🛠️ Technologies Used
+C++ — Core programming language
+Qt Framework — GUI development and application structure
+📂 Project Structure
+calculator-qt/
+│
+├── src/                # Source files
+├── include/            # Header files
+├── ui/                 # Qt UI files (.ui)
+├── resources/          # Icons and assets
+├── CMakeLists.txt      # Build configuration (if using CMake)
+└── README.md
+🚀 Getting Started
+Prerequisites
 
-### Prerequisites
-- Qt installed on your system
-- A C++ compiler (GCC, MSVC, or Clang)
+Make sure you have the following installed:
 
-### Build & Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/calculator-qt.git
+Qt (Qt 5 or Qt 6 recommended)
+A C++ compiler:
+GCC (Linux)
+MSVC (Windows)
+Clang (macOS/Linux)
+Qt Creator (optional but recommended)
