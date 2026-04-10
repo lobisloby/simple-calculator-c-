@@ -1,4 +1,4 @@
-Calculator (C++ & Qt)
+Calculator (C++ & Qt)§§
 
 A simple desktop calculator application built using C++ and the Qt framework.
 This project was created as a beginner-friendly exercise to explore GUI development with Qt and understand event-driven programming in C++.
