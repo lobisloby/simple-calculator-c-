@@ -18,22 +18,22 @@ Perfect for learning GUI development, event-driven programming, and building cro
 
 ## ✨ Features
 
-- ➕ **Basic Arithmetic Operations**  
+-  **Basic Arithmetic Operations**  
   Addition, Subtraction, Multiplication, and Division
 
-- 🛡️ **Smart Input Validation**  
+-  **Smart Input Validation**  
   Prevents errors like division by zero and invalid operations
 
-- ⌨️ **Dual Input Support**  
+-  **Dual Input Support**  
   Works with both on-screen buttons and keyboard input
 
-- 🎨 **Clean & Responsive UI**  
+-  **Clean & Responsive UI**  
   Modern, user-friendly interface built with Qt Widgets
 
-- ⚡ **Lightweight & Fast**  
+-  **Lightweight & Fast**  
   Excellent performance with minimal resource usage
 
-- 🌐 **Cross-Platform**  
+-  **Cross-Platform**  
   Runs smoothly on Windows, Linux, and macOS
 
 ---
